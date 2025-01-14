@@ -8,3 +8,5 @@ in web sites.
   - `TieredCache` An arbitrary nested lookup. Alpha status!
 - Storage
   - `StorageItem` Wrapper to manage items in session storage
+- Visualisation
+  - `HexMap` Web Component
